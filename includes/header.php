@@ -40,7 +40,7 @@ while ($row=mysqli_fetch_array($ret)) {
             <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.php">About</a>
+            <a class="nav-link" href="about.php">About SEC</a>
           </li>
             <li class="nav-item">
             <a class="nav-link" href="courses.php">Courses</a>
