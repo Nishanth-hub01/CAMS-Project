@@ -26,7 +26,7 @@ while ($row=mysqli_fetch_array($ret)) {
   <nav class="navbar navbar-expand-lg navbar-light py-lg-2 py-2">
     <div class="container">
       <a class="navbar-brand" href="index.php">
-        <img src="./assets/images/sec logo.jpg" alt="" height="45px" width="45px" class="logo"> SEC
+        <img src="./assets/images/sec_logo.jpg" alt="" height="45px" width="45px" class="logo"> SEC
       </a>
      
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
