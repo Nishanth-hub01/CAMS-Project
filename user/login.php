@@ -47,7 +47,7 @@ if (isset($_POST['login'])) {
           <li class="nav-item">
             <a class="navbar-brand" href="../index.php">
 
-              <h3 class="brand-text">College Admission Management System | User login</h3>
+              <h3 class="brand-text">College Admission Management System | l Counselor login</h3>
             </a>
           </li>
           <li class="nav-item d-md-none">
@@ -77,7 +77,7 @@ if (isset($_POST['login'])) {
               <div class="card border-grey border-lighten-3 m-0">
                 <div class="card-header border-0 pb-0">
                   <div class="card-title text-center">
-                    <h4 style="font-weight: bold"> ARC User Login</h4>
+                    <h4 style="font-weight: bold"> Counselor Login</h4>
                   </div>
                   <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2">
                     <span>Login</span>
